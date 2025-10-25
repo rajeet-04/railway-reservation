@@ -1,0 +1,135 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows thumbnail cache, Recycle Bin, etc.
+ehthumbs.db
+Icon?
+
+# macOS Finder metadata
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+.pnpm-store/
+# If using Next/Vue/React frameworks:
+.next/
+out/
+dist/
+build/
+.cache/
+.vite/
+.idea/
+.svelte-kit/
+
+# Environment files (sensitive)
+.env
+.env.*.local
+.env.example
+.local.env
+*.pem
+*.key
+secrets.yml
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Editor / IDE
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven / Gradle
+mvnw.cmd
+.mvn/
+.gradle/
+build/
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.nuspec
+*.nupkg
+*.snk
+.vs/
+
+# Ruby
+.bundle/
+vendor/bundle
+*.gem
+
+# Go
+bin/
+pkg/
+
+# Rust
+target/
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Database files
+*.sqlite3
+*.db
+railway.db
+*.sql
+*.sqlite
+
+# Containers
+docker-compose.override.yml
+.env.docker
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# Generated asset caches
+*.cache
+*.tmp
+
+# Misc
+.idea/
+*.log.*
+.sass-cache/
+coverage/
+*.orig
+yarn.lock
